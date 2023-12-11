@@ -13,7 +13,7 @@ export const categories = [
   },
   {
     id: 3,
-    title: "Espresso",
+    title: "Expresso",
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const coffeeItems = [
     volume: '116 ml',
     stars: '4.6',
     image: require('../assets/images/coffee1.png'),
-    desc: 'The taste of coffee can vary depending on factors such as the type of beans, roast level, brewing method, and the addition of any flavors or sweeteners.'
+    desc: 'O sabor do café pode variar dependendo de fatores como tipo de grão, nível de torra, método de preparo e adição de sabores ou adoçantes.'
   },
   
   {
@@ -43,12 +43,12 @@ export const coffeeItems = [
     volume: '110 ml',
     stars: '4.3',
     image: require('../assets/images/coffee2.png'),
-    desc: 'The taste of coffee can vary depending on factors such as the type of beans, roast level, brewing method, and the addition of any flavors or sweeteners.'
+    desc: 'O sabor do café pode variar dependendo de fatores como tipo de grão, nível de torra, método de preparo e adição de sabores ou adoçantes.'
   },
   
   {
     id: 3,
-    name: 'Espresso',
+    name: 'Expresso',
     price: '30.00',
     volume: '100 ml',
     stars: '4.0',
@@ -62,7 +62,7 @@ export const coffeeItems = [
     volume: '80 ml',
     stars: '3.5',
     image: require('../assets/images/coffee4.png'),
-    desc: 'The taste of coffee can vary depending on factors such as the type of beans, roast level, brewing method, and the addition of any flavors or sweeteners.'  },
+    desc: 'O sabor do café pode variar dependendo de fatores como tipo de grão, nível de torra, método de preparo e adição de sabores ou adoçantes.'  },
   
   {
     id: 5,
@@ -71,7 +71,7 @@ export const coffeeItems = [
     volume: '120 ml',
     stars: '4.7',
     image: require('../assets/images/coffee5.png'),
-    desc: 'The taste of coffee can vary depending on factors such as the type of beans, roast level, brewing method, and the addition of any flavors or sweeteners.'  },
+    desc: 'O sabor do café pode variar dependendo de fatores como tipo de grão, nível de torra, método de preparo e adição de sabores ou adoçantes.'  },
   
 
 ]

@@ -1,34 +1,34 @@
 # Coffee-App-React-Native
 
-![Image](https://cdn.dribbble.com/userupload/6434824/file/original-77c8b0f4bae5bae7db97d8a0590e69b9.png?compress=1&resize=2400x1800)
+![Image]
 
-  
+  ![Alt text](capas.JPG)
  
   
 
-## Get Started
+## Execute o App
 
-install dev dependencies
+Intale a dependências
 
 ### `npm install` or `yarn install`
 
 ## Then
 
-Run The app
+Inicie o App
 
 ### `npm start`
 
 Runs your app in development mode.
 
-Open it in the [Expo app](https://expo.io) on your phone to view it. It will reload if you save edits to your files, and you will see build errors and logs in the terminal.
+Abra-o no [Expo](https://expo.io) no seu telefone para visualizá-lo. Ele será recarregado se você salvar as edições em seus arquivos e você verá erros de compilação e logs no terminal.
 
 #### `npm run ios` or `yarn run ios`
 
-Like `npm start` / `yarn start`, but also attempts to open your app in the iOS Simulator if you're on a Mac and have it installed.
+ `npm start` / `yarn start`, mas também tenta abrir seu aplicativo no simulador iOS se você estiver em um Mac e o tiver instalado.
 
 #### `npm run android` or `yarn run android`
 
-Like `npm start` / `yarn start`, but also attempts to open your app on a connected Android device or emulator. Requires an installation of Android build tools (see [React Native docs](https://facebook.github.io/react-native/docs/getting-started.html) for detailed setup).
+ `npm start` / `yarn start`, mas também tenta abrir seu aplicativo em um dispositivo ou emulador Android conectado. Requer uma instalação de ferramentas de compilação do Android ( [React Native docs](https://facebook.github.io/react-native/docs/getting-started.html) para configuração detalhada).
 
 <br />
 

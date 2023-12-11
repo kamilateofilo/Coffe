@@ -31,7 +31,7 @@ export default function HomeScreen() {
           <View className="flex-row items-center space-x-2">
             <MapPinIcon size="25" color={themeColors.bgLight} />
             <Text className="font-semibold text-base">
-              New York, NYC
+              Manaus, Am
             </Text>
           </View>
           <BellIcon size="27" color="black" />
